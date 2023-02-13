@@ -1,6 +1,6 @@
 # Thin and very tender pancakes
 
- ## Ingredients
+## Ingredients
  * 3 eggs
  * ½ teaspoon salt
  * ½ teaspoon of soda
@@ -9,7 +9,7 @@
  * 160 g flour
  * 500 g of kefir
 
- ## Cooking
+## Cooking
  Whisk together the eggs, salt, soda and sugar.  Add butter, half of the sifted flour and 250 g of kefir and mix thoroughly.  Add the remaining flour and kefir and mix again until smooth.  Let the dough sit for 15 minutes.
 
  Grease a frying pan with oil and heat well. Spread a thin layer of dough over it and fry over medium heat until golden brown on both sides.
