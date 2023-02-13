@@ -19,3 +19,5 @@
 You can serve pancakes with any topping: jam, cheese, ham, berries, honey or whatever you want in a moment. They are tasty without toppings as well.
 
 ### Bon appetit! 🥞
+
+[There is also low-cal version](../lowcalrecipes/low_cal_blini.md)
