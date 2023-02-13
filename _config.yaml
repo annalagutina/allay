@@ -1,9 +1,6 @@
 remote_theme: pages-themes/dinky@v0.2.0
 title: [allay]
-description: ["Why allay?  
-
-First I'm L.A.
-
-Second I can allay.
-
-Third we are all allays."]
+description: "Why allay?\n
+First I'm L.A.\n
+Second I can allay.\n
+Third we are all allays."
