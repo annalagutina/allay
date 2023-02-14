@@ -6,3 +6,4 @@ I'll keep here some stuff. Enjoy.
 
 ##  Low-cal Recipes
 * [Pancakes](./lowcalrecipes/low_cal_blini.md)
+* [Lentil Tortillas](./lowcalrecipes/lentil_tortillas.md)
