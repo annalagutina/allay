@@ -1,9 +1,8 @@
-Hi, I'm Anna. 
-I'll keep here some stuff. Enjoy.
+Hey there! My name is Allay, and I've made this little corner of the internet my own. It's where I'm planning to keep my essays, data investigations, recipes, and other bits and bobs that I'm passionate about. I'd be thrilled if you found anything here helpful or interesting. Thanks for stopping by!
 
-## Normal Recipes
-* [Blini](./recipes/blini.md)
-
-##  Low-cal Recipes
-* [Pancakes](./lowcalrecipes/low_cal_blini.md)
-* [Lentil Tortillas](./lowcalrecipes/lentil_tortillas.md)
+## Improving Data Quality with TDDA
+[Definition of TDDA](./tdda/definition.md)
+[Why TDDA is not so popular?](./tdda/tdd_tdda.md)
+[Hypothesis Library Experiments](./tdda/hypothesis_example.py)
+## Frippery
+[Recipes](./recipes/contents.md)
